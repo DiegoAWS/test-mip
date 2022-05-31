@@ -1,6 +1,6 @@
 # MIP0c11-SP1: Subproposal for Core Personnel Onboarding (MIP Editor) 
 
-## Preamble
+##Preamble
 ```
 MIP0c11-SP#: 1
 Author: Charles St.Louis
